@@ -49,17 +49,26 @@ Both numeric and text outputs are shown for better clarity.
 
 # Model Evaluation Metrics
 1.Accuracy
+
 2.Precision
+
 3.Recall
+
 4.Confusion Matrix
 
 # Technologies Used
 1.Python
+
 2.Pandas
+
 3.NumPy
+
 4.Scikit-learn
+
 5.Matplotlib / Seaborn
+
 6.Streamlit
+
 7.Git & GitHub
 
 # How to Run the Project
@@ -103,6 +112,7 @@ Machine Learning Enthusiast
 1. Kaggle for providing the dataset
 2. Scikit-learn documentation
 3. Open-source community
+
 
 
 
