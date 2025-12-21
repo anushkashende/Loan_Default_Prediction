@@ -7,19 +7,25 @@ The project includes data preprocessing, model training, evaluation, and an opti
 
 # Objectives
 1. Predict loan default risk accurately
+ 
 2. Assist banks and financial institutions in decision-making
+   
 3. Automate loan risk assessment using ML
+
 4. Provide clear and understandable prediction output
 
 # Machine Learning Approach
 1. Learning Type: Supervised Learning
+
 2. Problem Type: Binary Classification
+   
 3. Models Used:
    Logistic Regression
    Random Forest Classifier
 
 #  Dataset
 1. Source: Kaggle (Loan Dataset)
+   
 2. Features Include:
    Applicant Income
    Loan Amount
@@ -29,10 +35,15 @@ The project includes data preprocessing, model training, evaluation, and an opti
 
 # Project Workflow
 1. Data Collection
+   
 2. Data Cleaning and Preprocessing
+   
 3. Feature Engineering
+
 4. Model Training
+  
 5. Model Evaluation
+ 
 6. Prediction Generation
 
 
@@ -98,20 +109,28 @@ streamlit run app.py
 
 # Future Enhancements
 1. Improve model accuracy using hyperparameter tuning
+   
 2. Add advanced ML/DL models
+   
 3. Deploy the application on cloud platforms
+   
 4. Add better UI and user authentication
 
 # Author
 
 Anushka Shende
+
 Student | B.Tech CSE (AIML)
+
 Machine Learning Enthusiast
 
 # Acknowledgements
 1. Kaggle for providing the dataset
+
 2. Scikit-learn documentation
+ 
 3. Open-source community
+
 
 
 
