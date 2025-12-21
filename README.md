@@ -42,7 +42,9 @@ A user-friendly Streamlit web application is implemented to allow users to input
 **Prediction Output:**
 
 0 → Loan is NOT likely to default
+
 1 → Loan is likely to default
+
 Both numeric and text outputs are shown for better clarity.
 
 # Model Evaluation Metrics
@@ -101,4 +103,5 @@ Machine Learning Enthusiast
 1. Kaggle for providing the dataset
 2. Scikit-learn documentation
 3. Open-source community
+
 
