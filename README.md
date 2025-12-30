@@ -28,9 +28,13 @@ The project includes data preprocessing, model training, evaluation, and an opti
    
 2. Features Include:
    Applicant Income
+   
    Loan Amount
+   
    Credit History
+   
    Employment Status
+   
    Loan Status
 
 # Project Workflow
@@ -132,6 +136,7 @@ Machine Learning Enthusiast
 2. Scikit-learn documentation
  
 3. Open-source community
+
 
 
 
