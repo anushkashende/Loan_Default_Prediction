@@ -126,6 +126,8 @@ streamlit run app.py
 
 Anushka Shende
 
+Email : sushmashende607@gmail.com
+
 Student | B.Tech CSE (AIML)
 
 Machine Learning Enthusiast
@@ -136,6 +138,7 @@ Machine Learning Enthusiast
 2. Scikit-learn documentation
  
 3. Open-source community
+
 
 
 
